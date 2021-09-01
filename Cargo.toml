@@ -1,8 +1,8 @@
 [package]
 name = "pack_files"
-version = "0.0.0"
+version = "0.0.1"
 authors = ["soeur <juzi201314@gmail.com>"]
-description = "A `cargo generate` template for quick-starting a procedural macro crate"
+description = "A simple proc macro. The folder is packaged during compilation and then released at runtime."
 keywords = ["template", "proc_macro", "procmacro"]
 edition = "2018"
 
